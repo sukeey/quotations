@@ -1,6 +1,6 @@
 # 经典语录
 
-![sukeey](https://i.loli.net/2019/05/11/5cd6716e39826.png)
+<!-- ![sukeey](https://i.loli.net/2019/05/11/5cd6716e39826.png) -->
 
 ## 语录列表
 
@@ -12,3 +12,7 @@
     - by haozibi
     - Beijing
     - 2019-05-11
+- 没有钱，人都是不自由的。
+    - by sukeey
+    - Jinan
+    - 2019-04-19

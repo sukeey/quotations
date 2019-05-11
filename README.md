@@ -5,7 +5,7 @@
 # Quotations
 
 <!-- > Quotations From [sukeey](https://github.com/sukeey) -->
-sukeey 的 [经典语录](docs/README.md)，不定期更新。
+[sukeey](https://github.com/sukeey) 的经典语录，不定期更新。
 
 ## WebSite
 
