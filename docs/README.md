@@ -4,6 +4,14 @@
 
 ## 语录列表
 
+- 向 nb 的人学习，成为 nb 的人。为什么他们可以而我不可以。
+    - by haozibi
+    - Beijing
+    - 2019-5-18
+- 这个世界相对还是公平的，你所得到的，一定和你付出的一样多，只是人们往往只看到你所得到的，而只有你自己才能看到你所付出的。
+    - by haozibi, copy from 道哥的黑板报 [我回阿里的29个月](https://mp.weixin.qq.com/s/_snozlQIcfROxuexpVTe9Q)
+    - Beijing
+    - 2019-5-18
 - 男人真是善变的动物，一天一个样。
     - by sukeey
     - Jinan
