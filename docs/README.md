@@ -8,6 +8,10 @@
     - by haozibi
     - Beijing
     - 2019-5-29
+- 有压力，是因为没有实力。
+    - by sukeey
+    - Jinan
+    - 2019-05-18
 - 向 nb 的人学习，成为 nb 的人，做有意思的事。
     - by haozibi
     - Beijing
