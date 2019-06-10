@@ -4,6 +4,14 @@
 
 ## 语录列表
 
+- 不要轻易被自己感动。
+    - by haozibi
+    - Beijing
+    - 2019-6-10
+- 制定计划然后去实现它，循环。
+    - by haozibi
+    - Beijing
+    - 2019-6-10
 - 如果毫不费力，那你就是在浪费时间。
     - by haozibi
     - Beijing
