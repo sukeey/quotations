@@ -4,6 +4,10 @@
 
 ## 语录列表
 
+- 逆水行舟，不进则退。
+    - by haozibi
+    - Beijing
+    - 2019-6-11
 - 不要轻易被自己感动。
     - by haozibi
     - Beijing
