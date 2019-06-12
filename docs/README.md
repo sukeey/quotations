@@ -4,6 +4,10 @@
 
 ## 语录列表
 
+- 如果不学习，那么现在就是你的天花板。
+    - by haozibi
+    - Beijing
+    - 2019-6-12
 - 逆水行舟，不进则退。
     - by haozibi
     - Beijing
